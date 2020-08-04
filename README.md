@@ -1,2 +1,4 @@
-# invie-github-jaider
-Tus mejores guitarras invie-sibles y @jaider jasb
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
